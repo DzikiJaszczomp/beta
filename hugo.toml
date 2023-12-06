@@ -1,4 +1,4 @@
-baseURL = "https://costa.netlify.app/"
+baseURL = "https://costatropical.netlify.app/"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
