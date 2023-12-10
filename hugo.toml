@@ -2,7 +2,7 @@ baseURL = "https://costatropical.netlify.app/"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
-themesDir = "../.."
+
 
 rssLimit = 5
 paginate = 4
