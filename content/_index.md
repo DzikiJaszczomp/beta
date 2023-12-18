@@ -57,7 +57,7 @@
     image = "img/caleta.jpg"
     title = "Senderismo – walking tourism"
     text = "Guide to tourist routes"
-    url = "/kids"
+    url = "/senderismo"
     button_text = "Learn more"
 
   [[feature_images.tile]]
