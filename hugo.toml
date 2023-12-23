@@ -69,7 +69,7 @@ enableInlineShortcodes = true
 
 # Paramaters for the whole site
 [params]
-  title = "Costa Tropical for people, dogs and cats"
+  title = "Costa Tropical for people and pets"
   subtitle = "Travel concierge"
   author.name = "Aleksander Janczarek"
   keywords = ["Travel concierge", "Salobreña", "Motril"]
