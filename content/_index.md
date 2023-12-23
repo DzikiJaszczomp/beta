@@ -64,7 +64,7 @@
     image = "img/konieimorze3.jpg"
     title = "From Costa Tropical for a day"
     text = "Points of interest. Tips for trips"
-    url = "#"
+    url = "/trips"
     button_text="Join a group today!"
 
 [CTA]

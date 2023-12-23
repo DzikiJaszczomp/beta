@@ -80,9 +80,9 @@ enableInlineShortcodes = true
   customCSS = ["example.css"]
 
   [params.favicon]
-    sml = "/example16.png"
-    med = "/example32.png"
-    #lge = "example96.png"
+    sml = "/example16.jpg"
+    med = "/example16.jpg"
+    #lge = "example16.jpg"
 
   [params.banner]
     image = "img/banner.jpg"
