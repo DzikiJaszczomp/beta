@@ -17,7 +17,10 @@ are attracted by the charm of the historic town, but the town's best-known attra
 district of houses carved into the rocks. The city lies at the foot of the Granada Geopark, famous for its
 unique nature and extraordinary views. The Sierra Nevada mountains, a short distance from the city, also
 provide a beautiful panorama.
-ZDJĘCIE: Guadix panorama
+
+![This is an image](/img/Guad-panor-kopia.jpg)
+
+Guadix panorama
 
 Guadix is one of the oldest human settlements in Spain. It was an important Roman colony, called Julia
 Gemella Acci, and one of the first Christian dioceses in Spain.
@@ -40,7 +43,7 @@ being dedicated to the Incarnation.
 
 It comprises no less than 47 oil paintings on canvas dating from the 17th and 18th centuries.
 
-ZDJĘCIE: katedra
+![This is an image](/img/kat-kopia.jpg)
 
 Alcazaba:
 Historic monument built in the 11th century, it is the best example of Moorish culture in Guadix. The
@@ -52,7 +55,8 @@ central courtyard and a magnificent balcony.
 Barrio de Santa Ana: a very important area in the Islamic period, it was an independant suburb of the
 Medina. As is often the case, the church is in the centre of the district.
 
-ZDJĘCIE: Guadix centrum 2
+![This is an image](/img/Guad-panor-kopia.jpg)
+
 Barrio de Cuevas
 The local Guadix environment has left its mark on the way of life of the local population, forcing them to
 construct a peculiar type of family and communal dwelling: caves.The exact date when the caves began to
