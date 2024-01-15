@@ -1,4 +1,4 @@
-baseURL = "costatropicaldogs.com"
+baseURL = "https://www.costatropicaldogs.com"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
