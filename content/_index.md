@@ -33,7 +33,8 @@
     icon_pack = "fas"
     accent = "2"
     title = "Salobreña"
-    text = "lorem."
+    text = "Salobreña"
+    url = "/salobrena"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
