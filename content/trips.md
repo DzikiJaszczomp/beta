@@ -110,8 +110,8 @@ hour-long cruise takes place over the town and the Geopark.
 We propose private excursions to see the sites described above, namely the Old Town of Guadix, the rock
 house district and the Granada Geopark. Those who wish will be able to take a balloon flight. Excursion
 The Geopark Granada, Guadix
-Distance round trip – 300 km. Group: 4 persons Cost: 45 Euro per pax. (Payment on the day of the tour).
-Additional pay – ticket to cathedral.
+Distance round trip – 300 km. Group: 4 persons 
+
 Details:
 https://www.facebook.com/profile.php?id=61555252727786
 
@@ -121,7 +121,7 @@ Mundo, the viewpoints. (about 1 hour) A trip to the big city market. It is organ
 Shopping opportunity. Walk and visit the house-cave district. (about 1,5 hour). Walking city tour. Visit
 cathedral, Roman ruins, Moorish castle, old town. (about 2 hours) Free time (1 hour) Lunch break – time
 to be agreed.
-Balloon cruise Geopark Granada, Guadix, cost: 45 EUR + 175 EUR (cruise)
+
 The activity consists of the balloon flight and includes a local breakfast and a souvenir certificate.
 This flight takes place in a spectacular landscape conquering heights above 2,000 meters or with low
 flights. With Sierra Nevada as a backdrop, the tour allows you to admire the cathedral of Guadix, citadel

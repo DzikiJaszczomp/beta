@@ -40,6 +40,7 @@ and recreational opportunities such as scuba diving.
 ![This is an image](/img/Salob11-kopia.jpg)
 ![This is an image](/img/Salob12-kopia.jpg)
 ![This is an image](/img/Salob7-kopia.jpg)
+![This is an image](/img/goorka2.jpg)
 
 Author of all images: 
 
