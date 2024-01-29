@@ -49,6 +49,7 @@
     accent = "3"
     title = "How to get, how to stay?"
     text = "Practical information"
+    url = "/howtoget"
 
 [feature_images]
 #These feature images look best if there's an even number of them.
