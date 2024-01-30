@@ -12,7 +12,7 @@ enableEmoji = true
 # Enter your tracking code to enable Google Analytics
 [services]
   [services.googleAnalytics]
-    ID = ""
+    ID = "G-72B5GM9QBQ"
 
 enableInlineShortcodes = true
 
