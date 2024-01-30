@@ -97,7 +97,7 @@ enableInlineShortcodes = true
     # For Open Street Map widgets
     latitude = "36.74644"
     longitude = "-3.58682"
-    zoom = "20"
+    zoom = "10"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"
     #api_key = "XXXXXXXX"
