@@ -34,7 +34,7 @@ and recreational opportunities such as scuba diving.
 
 ![This is an image](/img/salzachieski-kopia.jpg)
 ![This is an image](/img/sal.placJPG-kopia.jpg)
-![This is an image](/img/salstm-kopia.jpg)
+
 ![This is an image](/img/sal_skimo-kopia.jpg)
 ![This is an image](/img/sal_kolor-kopia.jpg)
 ![This is an image](/img/Salob11-kopia.jpg)
