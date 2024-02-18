@@ -28,9 +28,15 @@ enableInlineShortcodes = true
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Flavours of the Costa Tropical"
     url = "/"
     weight = 1
+
+  [[menu.main]]
+    name = "Rum"
+    parent = "Flavours of the Costa Tropical"
+    url = "/Rum"
+    weight = 1 
 
   [[menu.main]]
     name = "About"
