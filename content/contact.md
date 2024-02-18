@@ -7,6 +7,7 @@ tags: ""
 draft: false
 ---
 Welcome to visit our website. 
+
 This is only a modest beginning, but the site is growing day by day.
 Welcome to a wonderful place - the Costa Tropical. Why is it like this? We will try to show you. It’s worth
 being here at any time of year, every season has something special to offer.
