@@ -6,15 +6,23 @@ images: ["img/panorama.jpg"]
 tags: ""
 draft: false
 ---
-Welcome to visit our website. This is only a modest beginning, but the site is growing day by day.
-Welcome to a wonderful place - the Costa Tropical. Why is it like this? We will try to show you. It's
-worth being here at any time of year, every season has something special to offer.
-December is, as always, marked by Christmas, saying goodbye to the old year and welcoming the New
-Year. But December and January in Motril, Salobreña, Almuñecar is also a very good time for hiking and
-excursions. The weather is usually favourable, neither hot nor cold, just right for such activities.
-One day trips from Costa Tropical? Why not!
-We would like to show you another extraordinary place: the Granada Geopark with fantastic views and
-nature, and the nearby historic Guadix with monuments still from Roman times, and an unusual district of
-rock houses, inhabited. Or perhaps you might be interested in a balloon cruise over Geopark and Guadix.
-We wish you a merry Christmas and a happy New Year.
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}
+Welcome to visit our website. 
+This is only a modest beginning, but the site is growing day by day.
+Welcome to a wonderful place - the Costa Tropical. Why is it like this? We will try to show you. It’s worth
+being here at any time of year, every season has something special to offer.
+
+I hope our website will encourage you to visit the Costa Tropical. We would like to provide you with as
+much practical information as possible, show you interesting places and inspire you to wander.
+On our website you will already find information on the best way to travel on the Costa Tropical, even
+with a pet, and the necessary contacts.
+
+We encourage you to go hiking, offer route descriptions and ready-made, free guides to download straight
+from the website.
+
+We also offer day trips from the Costa Tropical.
+Get a taste of what the Costa Tropical tastes like. A section on local flavours is currently being created on
+our website. Welcome to the land of tropical fruit, wine, rum, seafood and other flavours.
+
+Piotr Janczarek
+
+email me: allpress.piotr.janczarek@gmail.com
