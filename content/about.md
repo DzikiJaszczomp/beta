@@ -1,6 +1,6 @@
 ---
 title: "About"
-subtitle: "About "
+subtitle: ""
 date: 2018-04-30T10:05:49+10:00
 images: [""]
 draft: false
