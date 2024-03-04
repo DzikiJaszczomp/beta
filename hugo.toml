@@ -38,6 +38,18 @@ enableInlineShortcodes = true
     url = "/Rum"
     weight = 1 
 
+   [[menu.main]]
+    name = "Notice board"
+    url = "/"
+    weight = 1
+
+   
+  [[menu.main]]
+    name = "Announcements"
+    parent = "Notice board"
+    url = "/Announcements"
+    weight = 1 
+
   [[menu.main]]
     name = "About"
     url = "/About"

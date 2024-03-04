@@ -75,8 +75,9 @@ Marbesol
 https://www.marbesol.com/
 
 
-Pet friendly transfers from Malaga Airport
-Contact in English
+**Pet friendly transfers from Malaga Airport Contact in English**
+
+
 When ordering a transfer, you need to let the company know in advance how big our pet is. It may be that a larger car will be needed. 
 Costs from Malaga Airport (EUR):
 Almuñécar: 
