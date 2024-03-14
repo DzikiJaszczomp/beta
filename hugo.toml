@@ -38,6 +38,32 @@ enableInlineShortcodes = true
     url = "/Rum"
     weight = 1 
 
+  [[menu.main]]
+    name = "For Pets"
+    url = "/forpets"
+    weight = 1
+
+  [[menu.main]]
+    name = "Motril for pets"
+    parent = "For Pets"
+    url = "/forpetsmotril"
+    weight = 1 
+
+
+   [[menu.main]]
+    name = "Salobreña for pets"
+    parent = "For Pets"
+    url = "/forpetssalobrena"
+    weight = 1  
+
+
+   [[menu.main]]
+    name = "Almuñécar for pets"
+    parent = "For Pets"
+    url = "/forpetsalmunecar"
+    weight = 1  
+
+
    [[menu.main]]
     name = "Notice board"
     url = "/"
@@ -50,35 +76,8 @@ enableInlineShortcodes = true
     url = "/Announcements"
     weight = 1 
 
-  [[menu.main]]
-    name = "About"
-    url = "/About"
-    weight = 2
+ 
 
-  [[menu.main]]
-    name = "About us"
-    parent = "About"
-    url = "/About"
-    weight = 1
-
-  [[menu.main]]
-    name = "Guides"
-    parent = "About"
-    url = "/leaders"
-    weight = 2
-
-  [[menu.main]]
-    name = "Content"
-    url = "#"
-    weight = 3
-
-  
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
-    parent = "Content"
-    weight = 2
 
   [[menu.main]]
     name = "Welcome"
