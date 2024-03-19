@@ -87,11 +87,6 @@ phone: 952 530 463, emergency (24h): 608 454 270
 hours: Monday to Friday: 9.30am – 2pm, 5.30pm – 7.30pm, Saturday: 10.30am – 1.30pm
 https://www.clinicaveterinarialaguna.com/
 
-Pet Vet Clinic
-La Herradura
-Calle Alhambra 3
-phone: 609 977 564
-
 Veterinaria La Herradura
 Carretera Transpenisual, km 38, San Jose del Cabo
 phone: 624-146-0301
