@@ -8,6 +8,10 @@ draft: false
 ---
 
 
+Malaga airport transfers, from Malaga to Costa Tropical, how to get to Almunecar, Salobrena, Motril. Bus
+from Malaga to Costa Tropical, hotels, apartments, campings in Costa Tropical, Almunecar, Salobrena,
+Motril. Airport taxi.
+
 **Arrival**
 
 Costa Tropical is about 100 km from Malaga airport. Closer is Granada airport (about 75 km), but there are far fewer connections to this city. 
@@ -18,7 +22,7 @@ Many airlines allow you to take your pet with you. Small animals travel on board
 
 **Escobar likes his small home. He flew to Spain in it.**
 
-**From Malaga to the Costa Tropical**
+**From Malaga airport to the Costa Tropical**
 
 From Malaga directly from the airport we have a convenient bus service to the Costa Tropical. You will find the bus stop just after leaving the arrivals hall. The bus (Alsa) runs along the coast and stops at all the seaside towns.
 However, there are more bus connections from the main station in the city: Malaga Maria Zambramo.
@@ -75,7 +79,7 @@ Marbesol
 https://www.marbesol.com/
 
 
-**Pet friendly transfers from Malaga Airport Contact in English**
+**Transfers from Malaga Airport to Costa Tropical (Almuñécar, Salobreña, Motril)**
 
 
 When ordering a transfer, you need to let the company know in advance how big our pet is. It may be that a larger car will be needed. 
@@ -90,21 +94,7 @@ Motril
 1-4 pax: 110-120
 5-8 pax: 135-155
 
-Transfer Taxi Malaga
-The animal can be transported in a container. 
-https://transfertaximalaga.com/
 
-TAXI Transfer Airport Malaga
-The animal can be transported in a container. 
-https://transferairportmalaga.com/
-
-Malaga Taxi Transfer
-The animal can be transported in a container. 
-https://malagataxis.net/
-
-Cheap Malaga Airport Transfer
-Accept transfers with pets if they are travelling in special bags, boxes, when a trip with a pet is properly and safely organised. The Staff is speaking English, including drivers. 
-https://cheapmalagaairporttransfers.com/
 
 
 The animal should be transported in a special cage or container. 
@@ -114,6 +104,73 @@ The animal should be transported in a special cage or container.
 
 www.doyouspain.com
 
+Where to stay
 
+accommodation in Costa Tropical, apartments, hotels Motril, Almuñécar, Salobreña
+If you dream of all-inclusive holidays in big hotel resorts then there are better places than the Costa Tropical, such as the
+neighbouring Costa del Sol.
+This is not to say that there are not large hotels with well-developed facilities. However, there are very few, and in some
+resorts none at all.
+If this is an added incentive for you to come to the Costa Tropical, read on.
+If you prefer to immerse yourself in the local environment from hotel life then the Costa Tropical is for you. Especially if
+you like local flavours, the beauty of the landscape, the sights. Beaches too, of course, but more intimate, charming ones.
+As far as tourist accommodation is concerned, flats for rent dominate here, the offer is large, but when thinking of
+travelling in July and especially in August you need to book accommodation in advance. Guest houses, hostels and small
+hotels, located near the sea, are also an interesting proposition.
+Campsites are also very popular.
+
+Almuñécar
+https://campingtropical.es/en/
+
+La Herradura
+https://campingcerrogordo.com/
+
+Motril
+https://www.campingplayadeponiente.com/
+https://campingplayagranada.com/
+
+Castel de Ferro
+https://campinghuertaromero.es/
+
+Polopos
+https://www.campingcastillo.com/
+
+Carchuna
+https://www.campingred.es/en/
+
+Each of the Costa Tropical destinations has its own specificity. Motril is a port town, administrative and economic centre.
+The town has a seaside tourist district with a rich infrastructure and nice beaches. There is also a golf course.
+Salobreña is perhaps the most charming town with its castle on a rock. The town invites you for a more intimate holiday.
+The infrastructure is very well developed and the town is very well maintained. Flats in small buildings and small hotels
+predominate.
+Almuñécar is the largest tourist centre with the most developed infrastructure. The other towns are charming, intimate
+tourist destinations.
+
+## Consierge
+
+# Travel assistant
+
+We offer support with travel arrangements and during your stay on the Costa Tropical. With us you will save time, money,
+see and experience more.
+
+What we offer:
+
+We will:
+
+help you find the best accommodation suitable for your needs. Alternatively, we will check the location and neighbourhood
+of the flat or hotel you have pre-selected yourself.
+provide a comfortable, inexpensive transfer from the airport to the flat or hotel. Individually or we will buy bus tickets from
+the airport to your chosen destination.
+find you the best car rental deals.
+prepare information about local excursions, hiking, offers for active tourists, according to your preferences.
+You will find many of these already on our website.
+buy tickets to the Alhambra in Granada. They are limited and must be bought in advance. We will help you organise a trip
+to Granada by bus or take you by car.
+The cost of our services for a group of up to 7 people ranges from €20 to €70, depending on the services selected.
+By using our assistance you will receive discounts on selected offers.
+
+If you are initially interested, please write to us, telling us how we can help:
+
+allpress.piotr.janczarek@gmail.com
 
 

@@ -6,7 +6,7 @@
       type = "primary"
 
   [[banner.button]]
-      url = "#feature-icons"
+      url = "offer"
       text = "Offer"
 
 #Details for the box below the banner
