@@ -115,3 +115,14 @@ Download guide (PDF) [DOWNLOAD](https://drive.google.com/file/d/1kbY-4TzFLQ_lku7
 **Cherimoya**
 
 ![This is an image](/img/czeremoja-kopia.jpg)
+
+
+RECOMMENDED
+
+Salobreña guided Free Tours in Spanish and English.
+Invite you to a wonderful walk through the ancient Moorish castle of Salobreña and its old town where
+centuries ago the kings of the Alhambra themselves walked.
+
+More information:
+
+https://costatropicaldogs.com/salobrena/

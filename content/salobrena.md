@@ -45,3 +45,39 @@ and recreational opportunities such as scuba diving.
 Author of all images: 
 
 Piotr Janczarek
+
+
+
+RECOMMENDED
+
+Salobreña guided Free Tours in Spanish and English.
+
+Invite you to a wonderful walk through the ancient Moorish castle of Salobreña and its old town where
+centuries ago the kings of the Alhambra themselves walked. The castle of Salobreña was in fact their
+place of retreat and rest, for a reason! Come and learn about the Legend of the Three Fair Princesses and
+The Rose of the Alhambra by Washington Irving and the beautiful local legend of the Messenger Butterfly
+whose outcome will surprise you.
+
+The tour includes:
+
+* Moorish castle (10th century)
+* Mudejar church (16th c.)
+* Medieval vault (XVI c.)
+* A walk through the viewpoints overlooking the Mediterranean in the old Nasrid quarter (Enrique
+Morente, Boquete de la Frascunda,...)
+* Paseo de las Flores
+* Local archaeological museum
+
+All this accompanied by the stories and legends of each place that will make the Free Tour an enchanting
+experience. You will also be able to taste the flavour of sugar cane, as a small tasting of the local sugar
+cane liquor from the local winery Ron El Mondero is included.
+
+Whatsapp +34 691 319 996, 
+
+e- mail: salobrenafreetour@gmail.com
+
+![boveda](/img/boveda.jpg)
+![This is an image](/img/SFT_widok.jpg)
+![This is an image](/img/SFTwid2.jpg)
+
+photo Salobnrena Free Tour
