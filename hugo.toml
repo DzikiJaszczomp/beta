@@ -39,6 +39,12 @@ enableInlineShortcodes = true
     weight = 1 
 
   [[menu.main]]
+    name = "Tropical Fruits"
+    parent = "Flavours of the Costa Tropical"
+    url = "/tropicalfruits"
+    weight = 1 
+
+  [[menu.main]]
     name = "For Pets"
     url = "/forpets"
     weight = 1
