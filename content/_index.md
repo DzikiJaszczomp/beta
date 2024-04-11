@@ -41,7 +41,8 @@
     icon_pack = "fas"
     accent = "5"
     title = "Almuñecar"
-    text = "lorem."
+    text = "Almuñecar guide"
+    url = "/almunecar"
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
