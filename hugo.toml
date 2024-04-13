@@ -27,6 +27,18 @@ enableInlineShortcodes = true
 #This theme can generate a multi-level menu.
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
+
+[[menu.main]]
+    name = "Po polsku"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Salobreña"
+    parent = "Po polsku"
+    url = "/salobrenapl"
+    weight = 1 
+
   [[menu.main]]
     name = "Flavours of the Costa Tropical"
     url = "/"
