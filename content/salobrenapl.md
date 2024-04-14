@@ -118,15 +118,11 @@ bezpośrednio na farmie. Więcej o tym w kolejnym rozdziale.
 
 **Wino i rum**
 
-Wybór win w sklepach jest ogromny, pochodzą one jednak głównie z dużych okręgów winiarskich jak
-Rioja. W lokalnych sklepach znajdziemy jednak sporo win lokalnych, które pochodzą najczęściej z
-Alpuhary. Są to bardzo dobre trunki z rodzinnych winnic. Warto też odwiedzić jedną z winnic i wziąć
-udział w degustacji.
-Historia rumu wiąże się z uprawą trzciny cukrowej i produkcją cukru. Wytwarzano go tu przez około
-tysiąc lat. Podobnie jak z winem, wybór tego trunku jest duży, ale najciekawsze są lokalne produkty.
-Więcej w dalszych rozdziałach.
-Na Costa Tropical ma pięć ośrodków turystycznych: Almuñécar, Salobreña, Motril, Castell de Ferro i La
-Rábita
+Wybór win w sklepach jest ogromny, pochodzą one jednak głównie z dużych okręgów winiarskich jak Rioja. W lokalnych sklepach znajdziemy jednak sporo win lokalnych, które pochodzą najczęściej z Alpuhary. Są to bardzo dobre trunki z rodzinnych winnic. Warto też odwiedzić jedną z winnic i wziąć udział w degustacji. Historia rumu wiąże się z uprawą trzciny cukrowej i produkcją cukru. Wytwarzano go tu przez około tysiąc lat. Podobnie jak z winem, wybór tego trunku jest duży, ale najciekawsze są lokalne produkty. Więcej w dalszych rozdziałach. 
+
+Na Costa Tropical ma pięć ośrodków turystycznych: Almuñécar, Salobreña, Motril, Castell de Ferro i La Rábita
+
+
 
 **Motril**
 
