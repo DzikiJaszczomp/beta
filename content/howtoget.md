@@ -152,16 +152,23 @@ We offer support with travel arrangements and during your stay on the Costa Trop
 see and experience more.
 
 What we offer:
+
 We will:
+
 Help you find the best accommodation suitable for your needs. Alternatively, we will check the location and
 neighbourhood of the flat or hotel you have pre-selected yourself.
+
 Provide a comfortable, inexpensive transfer from the airport to the flat or hotel. Individually or we will buy bus tickets from
 the airport to your chosen destination.
+
 Find you the best car rental deals. Also with no credut card and deposit.
+
 Prepare information about local excursions, hiking, offers for active tourists, according to your preferences. You will find
 many of these already on our website.
+
 Buy tickets to the Alhambra in Granada. They are limited and must be bought in advance. We will help you organise a trip
 to Granada by bus or take you by car.
+
 The cost of our services for a group of up to 7 people ranges from €20 to €70 (all group), depending on the services
 selected. By using our assistance you will receive discounts on selected offers.
 

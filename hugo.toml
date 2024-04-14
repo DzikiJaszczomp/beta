@@ -34,10 +34,17 @@ enableInlineShortcodes = true
     weight = 1
 
     [[menu.main]]
-    name = "Salobreña"
+    name = "Costa Tropical"
     parent = "Po polsku"
     url = "/salobrenapl"
     weight = 1 
+
+  
+[[menu.main]]
+    name = "Costa Tropical praktycznie"
+    parent = "Po polsku"
+    url = "/costatropicalpl"
+    weight = 1   
 
   [[menu.main]]
     name = "Flavours of the Costa Tropical"
