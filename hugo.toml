@@ -41,7 +41,7 @@ enableInlineShortcodes = true
 
   
 [[menu.main]]
-    name = "Costa Tropical praktycznie"
+    name = "Praktycznie"
     parent = "Po polsku"
     url = "/costatropicalpl"
     weight = 1   
