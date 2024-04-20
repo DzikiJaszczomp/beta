@@ -28,6 +28,13 @@ enableInlineShortcodes = true
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
 [menu]
 
+
+[[menu.main]]
+    name = "Our Tours"
+    url = "/ourtours"
+    weight = 1
+  
+
 [[menu.main]]
     name = "Po polsku"
     url = "/"
@@ -62,6 +69,13 @@ enableInlineShortcodes = true
     parent = "Flavours of the Costa Tropical"
     url = "/tropicalfruits"
     weight = 1 
+
+
+  [[menu.main]]
+    name = "Wine"
+    parent = "Flavours of the Costa Tropical"
+    url = "/wino"
+    weight = 1   
 
   [[menu.main]]
     name = "For Pets"
