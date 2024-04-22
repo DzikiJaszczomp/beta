@@ -47,12 +47,14 @@ Bodega Señiorio de Nevada
 
 This is a cay wine and tourist complex with a hotel, restaurant and organised wine tasting. The distance
 from Motril to the bodega is approximately 40 km.
+
 https://www.senoriodenevada.es/
 
 Calvente
 
 The bodega organises a tasting of its wines for groups of at least 6 people, the cost is €20 per person.
 Wines and olive oil can also be purchased online. The Bodega is located in Jete near Almunecar.
+
 https://bodegascalvente.com/
 
 Finca Cuatro Vientos
@@ -61,6 +63,7 @@ A winery and bodega in Alpujarra. Cuatro Vientos has a rich offer for wine conno
 There is a wine museum on the property, which can also be visited with a guide. An interesting offer is a
 tour combined with wine tasting. There is also a restaurant with Alpujarra specialities and a wine shop.
 The Bodega is located 93 km from Almunecar and 76 km from Salobreña.
+
 https://www.bodegacuatrovientos.es/
 
 ### Wine excursions
@@ -71,6 +74,8 @@ appointment from Motril, Salobreña, Almuñecar and others nearby. Cost: visit t
 tasting - €15, transfer - €20-25 per person depending on the number of people. Groups: from 3 to 7
 people.
 Information and dates:
+
+LINK https://costatropicaldogs.com/ourtours/
 
 #### Classifications of Spanish wines
 

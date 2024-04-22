@@ -188,6 +188,8 @@ If you have a car, it will take you several minutes to get to the farm from Almu
 When you don't have a car to get to the farm use our transfer service from Motril, Salobreña, Almuñecar
 and the surrounding area. (€10 per person round trip). Dates and details on:
 
+LINK https://costatropicaldogs.com/ourtours/
+
 ![Coffe](/img/kawa-kopia.jpg)
 
 Coffee plant

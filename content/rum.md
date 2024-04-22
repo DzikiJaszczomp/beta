@@ -1,5 +1,4 @@
-***Flavours of the Costa Tropical
-Rum (RON)***
+***Flavours of the Costa Tropical Rum (RON)***
 
 Rum production is inextricably linked to sugar cane cultivation and sugar production.
 Sugar production on the Costa Tropical was started by the Moors. Because of the warm tropical climate
@@ -38,7 +37,10 @@ a tour of the factory. The tour is free, lasts about an hour and ends with a rum
 on site. Tours are organised from Monday to Saturday, at 12.00 p.m. in Spanish and at 1.00 p.m. in
 English.
 For groups, contact via WhatsApp: 629 223 428, Email:visitas@ronmontero.com
+
 https://ronmontero.com/#/
+
+Our tours LINK https://costatropicaldogs.com/ourtours/
 
 **It's time to get to know rums**
 
