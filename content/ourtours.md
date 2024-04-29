@@ -29,9 +29,9 @@ Book (informations): allpress.piotr.janczarek@gmail.com
 WhatsApp: +48 604 201 109
 phone: 654 110 418
 
-10th
-17th
-24th
+
+
+**10th 17th 24th**
 
 Bio farm. Tropical fruits
 
@@ -41,19 +41,25 @@ Guided tour in English of a unique, natural tropical fruit farm and Europe's onl
 Departure from Motril, Salobreña, La Herradura, Almuñecar and surrounding areas about 10.00.
 Cost: 15 EUR plus 10 EUR (per person) transfer.
 Book(informations): allpress.piotr.janczarek@gmail.com
-WhatsApp: +48 604 201 109
-phone: 654 110 418
+
+WhatsApp: +48 604 201 109 phone: 654 110 418
 
 11th
 18th
 25th
+
 GUADIX, GEOPARK GRANADA
+
 details:
 https://costatropicaldogs.com/trips/
+
 Sightseeing: Granada National Park, the rock city, the historic centre. We shop at the great market held in
 this city on Saturdays.
+
 Departure from Motril, Salobreña, La Herradura, Almuñecar and surrounding areas about 8.00.
+
 Cost: 35 EUR plus 10 EUR – ticket to the Cathedral
+
 Book(informations): allpress.piotr.janczarek@gmail.com
-WhatsApp: +48 604 201 109
-phone: 654 110 418
+
+WhatsApp: +48 604 201 109 phone: 654 110 418

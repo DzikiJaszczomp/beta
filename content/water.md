@@ -1,8 +1,8 @@
-Water activity
+# Water activity
 
-Costa Tropical, Almuñecar, La Herradura, Salobreña, Motril, boats, yachts, renting, diving
+## Costa Tropical, Almuñecar, La Herradura, Salobreña, Motril, boats, yachts, renting, diving
 
-Cruises
+##### Cruises
 
 sailes, catamaran, boat, yacht, Almuñecar, La Herradura, Salobreña, Motril
 
@@ -11,7 +11,7 @@ Sunset Catamaran Sail
 Sail & Lunch Tour
 2 hr (from 45Eur)
 
-Andalusian Excursions
+#### Andalusian Excursions
 
 www.andalusianexcursions.com
 
@@ -23,9 +23,11 @@ coastline pass by.
 
 Excursion pick-up locations: Motril-Salobrena-Almunecar-La Herradura-Nerja-Torrox-Torre del Mar.
 
-ZDJĘCIE: katamaran, podpis photo: Andalusian Excursions
+![catamaran](/img/katamaran.jpeg)
 
-Diving
+photo: Andalusian Excursions
+
+### Diving
 
 diving, diving courses Almuñecar, La Herradura, Salobreña, Motril
 

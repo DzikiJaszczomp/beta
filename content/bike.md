@@ -1,12 +1,10 @@
-Cycle tourism. Bicycle hire
+# Cycle tourism. Bicycle hire
 
-cycle tourism, bike tourism, Costa Tropical bike, Costa Tropical bike tour, Andalusia bike, Sierra Nevada
-bike tours
+## cycle tourism, bike tourism, Costa Tropical bike, Costa Tropical bike tour, Andalusia bike, Sierra Nevada bike tours
 
-Vuelta a Costa Tropical
+### Vuelta a Costa Tropical
 
-# Prepare your road bike, strap on your helmet and face the slopes of the Sierra Nevada and other Sierras
-on the Granada coast.
+ *Prepare your road bike, strap on your helmet and face the slopes of the Sierra Nevada and other Sierras on the Granada coast.*
 
 Vuelta a Costa Tropical, specialist in cycling stays in Andalusia, offers tailor-made cycling stays, camps
 and holidays or economic formulas.
@@ -29,10 +27,12 @@ DROP YOUR BAGS AND RIDE!"
 www.vueltacostatropical.cc
 
 Instagram : https://www.instagram.com/vueltaacostatropical/
+
 Facebook : https://www.facebook.com/vueltacostatropical
+
 Google Reviews : https://maps.app.goo.gl/EpyXGBAh7RDJWdef6
 
-ZDJĘCIE
+
 
 ![imagen cabacera](/img/imagen.jpg) 
 
