@@ -29,6 +29,27 @@ enableInlineShortcodes = true
 [menu]
 
 
+
+[[menu.main]]
+    name = "Tourist services"
+    url = ""
+    weight = 1
+
+
+ [[menu.main]]
+    name = "Bike"
+    parent = "Tourist services"
+    url = "/bike"
+    weight = 1
+
+ [[menu.main]]
+    name = "Water"
+    parent = "Tourist services"
+    url = "/water"
+    weight = 1   
+
+
+
 [[menu.main]]
     name = "Our Tours"
     url = "/ourtours"
