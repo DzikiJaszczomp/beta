@@ -44,6 +44,6 @@ availability.
 In addition you will benefit from our experience created around the world.
 www.buceoalmunecar.es
 
-![Coffe](/img/diving2.jpg)
+![Coffe](/img/diving2.jpeg)
 
 photo: Almuñecar Dive Centre

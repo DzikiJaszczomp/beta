@@ -48,7 +48,7 @@
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "How to get, how to stay?"
+    title = "How to get, where to stay?"
     text = "Practical information"
     url = "/howtoget"
 
