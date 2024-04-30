@@ -7,9 +7,10 @@
 sailes, catamaran, boat, yacht, Almuñecar, La Herradura, Salobreña, Motril
 
 Catamaran Sail
+
 Sunset Catamaran Sail
-Sail & Lunch Tour
-2 hr (from 45Eur)
+
+Sail & Lunch Tour 2 hr (from 45Eur)
 
 #### Andalusian Excursions
 
