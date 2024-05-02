@@ -74,6 +74,13 @@ enableInlineShortcodes = true
     url = "/costatropicalpl"
     weight = 1   
 
+
+[[menu.main]]
+    name = "Na zimę"
+    parent = "Po polsku"
+    url = "/zima"
+    weight = 1    
+
   [[menu.main]]
     name = "Flavours of the Costa Tropical"
     url = "/"
