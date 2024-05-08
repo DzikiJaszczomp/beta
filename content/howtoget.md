@@ -144,6 +144,27 @@ predominate.
 Almuñécar is the largest tourist centre with the most developed infrastructure. The other towns are charming, intimate
 tourist destinations.
 
+
+**Hotel Almuñécar**
+
+Hostal Tropical
+
+***A family-run hotel in Almuñécar, right on the beach***
+
+https://hostaltropical.es/
+
+Hostal Tropical was created by a person who loves to travel and explore the world, staying and relaxing in
+charming, original and affordable places. economical places with a close and familiar treatment
+This is a family-run hotel. Famous for its comfortable rooms, pleasant, tasteful decor and pleasant
+atmosphere, as well as for its attention to the environment.
+The beach is only 20 metres from the hotel and the town centre is a 5-minute walk away.
+Everywhere is close, including the most interesting towns of the region (Nerja, Salobreña, Frigiliana,
+Malaga, Granada, La Horseshoe ...) and the best beaches (San Pedro de Alcántara, San Pedro de
+Alcántara, San Pedro de Alcántara ...) and the best beaches (San Cristóbal, Torre del Mar, El Muerto,
+Cantarriján, Calabajío, Cabria ...).
+
+![This is an image](/img/habitacion.jpg)
+
 ## Consierge
 
 # Travel assistant

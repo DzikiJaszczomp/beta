@@ -9,7 +9,7 @@ draft: false
 ---
 Interesting places
 
-# Guadix, the Granada Geopark
+# **Guadix, Geopark Granada**
 
 60 km from Granada, 140 km from Salobreńa and Motril
 Guadix, a small Andalusian town (around 25,000 inhabitants) is a well-known tourist destination. Tourists
@@ -23,6 +23,7 @@ provide a beautiful panorama.
 Guadix panorama
 
 Guadix 
+
 is one of the oldest human settlements in Spain. It was an important Roman colony, called Julia
 Gemella Acci, and one of the first Christian dioceses in Spain.
 Under Muslim rule, the city acquired the Arab urban layout, which still prevails in some streets. In the
@@ -37,6 +38,7 @@ square. The Palacio de Marqueses de Peñaflor has a room dedicated to the writer
 *In Guadix we will see, among others:*
 
 The cathedral 
+
 underwent a complex construction process beginning in the 16th century and ending in the 18th century. It
 was built on the site of the great mosque and is a blend of the Gothic, Renaissance and Baroque styles.
 The end result of Guadix Cathedral is a church with a nave and two aisles on a Gothic quasi-basilica floor
@@ -128,5 +130,53 @@ flights. With Sierra Nevada as a backdrop, the tour allows you to admire the cat
 and the neighbourhoods of the cave houses. Program Departure (pick-up Motril, Salobreńa, Almuńecar) –
 6.30
 
-Details:
-https://www.facebook.com/profile.php?id=61555252727786
+**Caminito del Rey**
+
+Caminito del Rey, excursions, Malaga, Andalusia
+
+***The most spectacular routes in the world!***
+
+The Caminito route is spectacular from beginning to end, the scenery is breathtaking and unforgettable.
+
+The path is approximately 8 kilometers long and takes roughly 3 hours to complete. It is not for the faint-
+hearted and is not a tour for people who have issues with height.
+
+This almost 8-kilometre path near Malaga (Andalusia) was once considered one of the most dangerous in
+the world. Today the entire route has been carefully restored, but although it's now much safer, one thing
+hasn't changed - the unique experience of strolling along walkways hanging over 100 metres up on a sheer
+cliff face.
+The Caminito del Rey running through cliffs, canyons, and a large valley. It crosses the landscapes of
+Desfiladero de los Gaitanes, a gorge carved out by the river Guadalhorce, with walls 700 metres high. The
+area is also inhabited by a wide variety of plant and animal species; with a little luck, you can see
+highland birds like Egyptian vultures, griffon vultures, or golden eagles, and mammals such as wild boar
+and Iberian ibex.
+
+Official website:
+
+https://www.caminitodelrey.info/en
+
+ZDJECIA
+
+![Cuevas](/img/Caminito_del_Rey_4.jpeg)
+![Cuevas](/img/caminitodelrey-kopia.jpg)
+
+caminito
+
+photos: Andalusian.org
+
+**Excursions**
+
+Join us for a walk through the mountains through the unique king's little pathway along the steep wall of
+the narrow gorge of El Chorro.
+3 hr 30 min, cost 59,50 EUR
+Included:
+* Pick-up & Drop off with private transportation.
+* Excursion Manager
+* Entry to the Caminito Del Rey
+Excursion pick-up locations: Motri-Salobrena-Amunecar-La Herradura-Nerja-Torrox. ( We will contact
+you to arrange your nearest pick-up location).
+https://www.andalusianexcursions.com/
+
+![Cuevas](/img/cam-exc.jpeg)
+
+photo: Andalusian Excursions

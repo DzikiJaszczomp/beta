@@ -1,12 +1,12 @@
-Andaluzja. Costa Tropical na dłużej
+# **Andaluzja. Costa Tropical na dłużej**
 
-**Jesień, zima, wiosna na Costa Tropical. Czy warto przezimować w najcieplejszym regionie Hiszpanii?**
+## Jesień, zima, wiosna na Costa Tropical. Czy warto przezimować w najcieplejszym regionie Hiszpanii?
 
-Zima w Hiszpanii. Andaluzja, Costa Tropical na zimę. Gdzie jesienią i zimą jest ciepło? Hiszpania,
-Andaluzja przez cały rok. Jak zorganizować sobie pobyt nad morzem w Hiszpanii? Hiszpania, Morze
-Śródziemne, gdzie pojechać?
+###### Zima w Hiszpanii. Andaluzja, Costa Tropical na zimę. Gdzie jesienią i zimą jest ciepło?
+Hiszpania, Andaluzja przez cały rok. Jak zorganizować sobie pobyt nad morzem w Hiszpanii? Hiszpania,
+Morze Śródziemne, gdzie pojechać?
 
-***Zima na ciepłym wybrzeżu Hiszpanii?***
+Zima na ciepłym wybrzeżu Hiszpanii?
 
 Wydaje się dobrym pomysłem, na tyle, że korzysta z tej możliwości coraz więcej osób. Zwłaszcza
 przybyszów z deszczowych i zimnych krain, w tym z Polski. Nie tylko pogoda jest przyjaźniejsza, ale też
@@ -15,12 +15,12 @@ magnesem jest też hiszpański styl życia oraz piękne okolice.
 Poranne spacery wzdłuż morza, relaks na plaży przez cały rok, podziwianie zachodu słońca, wędrówki po
 barach, to ulubione zajęci zimowych ekspatów na Costa Tropical.
 
-***Zimowa przeprowadzka na najcieplejsze wybrzeże. Czy to trudne?**
+*Zimowa przeprowadzka na najcieplejsze wybrzeże. Czy to trudne?*
 
 Jeśli wiemy jak, odpowiednio się przygotujemy, nie jest to bardzo skomplikowane. Jeśli znamy choć
 trochę hiszpański to już całkiem proste.
 
-**Co warto mieć ze sobą w Hiszpanii?**
+#### Co warto mieć ze sobą w Hiszpanii?
 
 Europejską Kartę Ubezpieczenia Zdrowotnego, która daje dostęp do publicznej służby zdrowia. Wydaje ją
 NFZ i jest ważne 6 miesięcy.
@@ -28,7 +28,7 @@ Pozostaje jeszcze znalezienie mieszkania, dojazd, transfer na miejscu, różne f
 się ja. Nie musicie mieć samochodu, znać język, potrzebować adwokata, notariusza, tłumacza, czy agenta
 nieruchomości. O tym dalej.
 
-***Mieszkania w Andaluzji na wybrzeżu Costa Tropical***
+##### Mieszkania w Andaluzji na wybrzeżu Costa Tropical
 
 Jeszcze kilka, kilkanaście miesięcy temu, wczesną jesienią, właściciele domów i mieszkań na
 nadmorskim wybrzeżu zamykali je na głucho i czekały one do lata, ewentualnie wpadano tu na weekendy
@@ -37,14 +37,13 @@ latem. Coraz więcej osób: Hiszpanów, Brytyjczyków, Niemców, Skandynawów ch
 najcieplejszym wybrzeżu Hiszpanii. Sami właściciele nieruchomości też coraz chętniej zostają tu na stałe.
 Popyt na mieszkania pozasezonowe kreuje podaż. Oferta mieszkań wynajmowanych w okresie od
 września do końca czerwca, a jeszcze częściej od początku października do końca maja jest spora. Można
+
 je wynająć na cały ten czas lub jego część. Z drugiej strony popyt jednak rośnie i znalezienie
 odpowiedniego lokum nie jest już tak proste, jak kiedyś i tak tanie. Trzeba wiedzieć gdzie i jak szukać.
-
 Przedstawiając po krótce możliwości wynajmu posezonowego, bierzemy pod uwagę nadmorskie rejony
 Almuńecar, Salobreńy, Motrliu (100-300 m od morza) oraz rozsądne ceny, bo te są zróżnicowane.
 Najlepiej wynajmować bez pośrednictwa agencji nieruchomości, bo te kasują równowartość miesięcznego
 czynszu, a niewiele pomagają.
-
 Wynajęcie apartamentu z dwoma sypialniami to koszt około 450 – 600 euro miesięcznie. Trzy sypialnie
 kosztują 500 – 750 euro, a domek z 4 sypialniami około 700 - 800 euro. Zdarzają się tańsze propozycje,
 więcej jednak jest droższych lub dużo droższych z cenami dla zamożnych Brytyjczyków, czy Niemców.
@@ -53,9 +52,7 @@ czteroosobowej rodziny (niezbyt oszczędnej): prąd – 40-60 euro miesięcznie,
 miesięcznie, woda – około 20 euro, śmieci – około 5 euro, internet – 25-30 euro miesięcznie. Ogrzewania
 najczęściej nie ma. Zimą może być dość chłodno w domu, wtedy, gdy świeci słońce, jest cieplej na
 zewnątrz niż w mieszkaniu.
-
 Zakupy
-
 To dość istotna kwestia logistyczne, zwłaszcza gdy nie mamy samochodu. Na szczęście w każdej,, nawet
 małej miejscowości jest kilka supermarketów, czynnych przynajmniej 6 dni w tygodniu, od 9 do 21.30. Są
 to markety należące do sieci: Dia, Mercadona, Coviran, Carrefour, Lidl, Aldi. W większych miastach e
@@ -67,24 +64,23 @@ W Andaluzji bardzo dobrze funkcjonuje publiczna komunikacja autobusowa, jest szy
 niedroga. Autobusem bez problemu dojedziemy do Malagi, Granady i dalszych miast. Jeszce łatwiej
 podróżować po okolicznych miejscowościach. Trzeba jednak przyznać, że posiadanie samochodu daje
 większe możliwości. Jeśli nie mamy samochodu, możemy skorzystać ze zorganizowanych wycieczek.
-Costa Tropical. Miesiąc po miesiącu.
+
+###### Costa Tropical. Miesiąc po miesiącu.
 
 Przegląd miesięcy na Costa Tropical, głównie pogodowy, przygotowałem głównie na podstawie własnych
 obserwacji i doświadczeń.
-
 Wrzesień
 
 Lato w pełni. Temperatura powietrza około 27 stopni C, a wody około 22 stopnie. Do połowy września
 trwa oficjalny sezon. W praktyce oznacza to, że na plażach są ratownicy, a za parkowanie trzeba płacić.
 Do połowy miesiąca jest też więcej ludzi.
-Wrzesień to idealny czas na plażowanie (lepszy niż lipiec i sierpień), wycieczki, wędrówki, spacery.
 
+Wrzesień to idealny czas na plażowanie (lepszy niż lipiec i sierpień), wycieczki, wędrówki, spacery.
 Październik
 
 Lato wciąż trwa. Temperatura spada przeciętnie do około 24 stopni. Morze jest ciepłe przez większą część
 miesiąca, pod koniec października dość gwałtownie się oziębia, bo do około 19 stopni.
 Czas na plażowanie, nieco luźniejsze, spacery, wycieczki, fiesty i atrakcje gastronomiczne.
-
 Listopad
 
 To już jesień. Jeśli chodzi o pogodę listopad na Costa Tropical, przypomina ciepły wrzesień w Polsce.
@@ -95,7 +91,6 @@ W listopadzie zaczyna się już sezon na tropikalne owoce: mandarynki, pomarańc
 papaje, kumkwaty i inne.
 W listopadzie sporo jest jeszcze dni plażowych. Jest to idealna pora na wycieczki, spacery i wędrówki
 oraz atrakcje gastronomiczne.
-
 Grudzień
 
 Jest podobny do listopada. W 2023 r. był bardzo ciepły, a święta ludzie spędzali na plaży, opalając się a
@@ -126,31 +121,26 @@ Zapełniają się plaże nie tylko w weekendy. W tym roku jednak nie brakuje poc
 ich fragmentów), czasami pada, ale jest ciepło. Przybywa turystów. Kończy się sezon zbioru owoców
 tropikalnych, ale są dostępne przez cały rok. Za to jest sezon na truskawki i szparagi (zielone). 28
 kwietnia jest ostatnim dniem sezonu narciarskiego.
-
 Maj
-
 To już lato w pełni. Temperatury średnio około 25 stopni, a w morzu blisko 20 stopni. Turystyka kwitnie,
 plaże są pełne, wszystkie lokale czynne. Przyjemny miesiąc, letni, ale poza weekendem, wciąż jeszcze
 jest dość pusto. Nie ma jeszcze upałów więc to dobry czas na różnego rodzaju aktywności sportowe i
 turystyczne, nie tylko rankiem i wieczorem, gdy jest chłodniej.
-
 Czerwiec
 
-To już lato. W połowie miesiąca otwierają główny sezon. Jest upalnie, ale morze sprawia, że temperatury
-są znośne. Temperatura może sięgać 30 stopni, a wody wzrasta do około 23 stopni. W takie dni widać, że
-siesta od ok. 14.000 do 17.30 ma sens.
-
+To już sezon. W połowie miesiąca otwierają główny sezon. Jest upalnie, ale morze sprawia, że
+temperatury są znośne. Temperatura może sięgać 30 stopni, a wody wzrasta do około 23 stopni. W takie
+dni widać, że siesta od ok. 14.000 do 17.30 ma sens.
 Na Costa Tropical każdy miesiąc jest odpowiedni. Jesienią, zimą i wiosną nie brakuje atrakcji. Ze
 względu na brak upałów jest to bardzo dobry czas na wycieczki, zwiedzanie, piesze wycieczki, czy
 kulinarne doświadczenia w mieście i we własnym zakresie.
 Zachęcam do korzystania z informacji na niniejszej stronie. Znajdziecie tu sporo propozycji wycieczek i
 innych atrakcji.
 
-# Jak mogę pomóc?
+###### Jak mogę pomóc?
 
 Przedstawię kilka propozycji mieszkań i apartamentów na wynajem, zgodnie z preferencjami. Pomogę je
 zarezerwować i wynająć.
-
 Odbiorę z lotniska w Maladze i zawiozę do apartamentu. Ewentualnie pomogę w wynajęciu samochodu,
 przedstawiając oferty najkorzystniejsze cenowo i bezpiecznie. Mogę również pomóc zakupić bilet
 autobusowy.
@@ -161,16 +151,13 @@ Ile to kosztuje?
 
 W najdroższej, pełnej wersji, łącznie z transferem z lotniska (w jedną stronę) koszt pakietu wynosi 300
 euro. Im mniejszy jest pakiet, tym cena jest niższa.
-
 Rekonesans
 
 Najlepiej przekonać się, czy warto tu zamieszkać, przyjeżdżając choćby na kilka dni. Jeśli chcesz
 zorientować się, czy i jak zamieszkać na Costa Tropical lub zwyczajnie spędzić tu trochę czasu, także
 mogę pomóc.
-
 Znajdę mieszkanie, najlepszą ofertę wypożyczenia samochodu lub odbiorę z lotniska. Na miejscu służę
 jako przewodnik i konsultant.
-
 Pełny pakiet, łącznie z transferem w obie strony kosztuje 300 euro. Obejmuje też całodniowy study tour
 po miejscowościach Costa Tropical w poszukiwaniu wymarzonego miejsca. Ponadto wstępne
 poszukiwania mieszkania, czy domu. Im niej usług, tym tańszy pakiet, np. bez transferów cena wynosi
@@ -179,7 +166,9 @@ poszukiwania mieszkania, czy domu. Im niej usług, tym tańszy pakiet, np. bez t
 Koszty są skalkulowana dla grup od 1 do 4 osób, niezależnie od liczby osób (maksymalnie 4) będzie
 wynosić tyle samo. Możliwe jest również przygotowanie oferty dla liczniejszej grupy.
 Chętnie odpowiem na pytania i udzielę informacji, kontakt:
+
 Piotr Janczarek
+
 
 allpress.piotr.janczarek@gmail.com
 
