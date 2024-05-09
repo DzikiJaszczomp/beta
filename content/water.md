@@ -52,16 +52,24 @@ www.buceoalmunecar.es
 photo: Almuñecar Dive Centre
 
 
-*Yacht charter in La Herradura, marina del Este
+
+
+#### *Yacht charter in La Herradura, marina del Este*
 
 **Nautica del Este**
+
+
 
 La Herradura
 
 Sale of new and used yachts.
+
 Sailing courses
+
 Boat service and maintenance
+
 Post-season boat storage
+
 Insurance
 
 https://nauticadeleste.com/

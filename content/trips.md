@@ -11,6 +11,8 @@ Interesting places
 
 # **Guadix, Geopark Granada**
 
+##  **Caminito del Rey**
+
 60 km from Granada, 140 km from Salobreńa and Motril
 Guadix, a small Andalusian town (around 25,000 inhabitants) is a well-known tourist destination. Tourists
 are attracted by the charm of the historic town, but the town's best-known attraction is the inhabited
@@ -130,7 +132,7 @@ flights. With Sierra Nevada as a backdrop, the tour allows you to admire the cat
 and the neighbourhoods of the cave houses. Program Departure (pick-up Motril, Salobreńa, Almuńecar) –
 6.30
 
-**Caminito del Rey**
+## **Caminito del Rey**
 
 Caminito del Rey, excursions, Malaga, Andalusia
 
@@ -155,7 +157,7 @@ Official website:
 
 https://www.caminitodelrey.info/en
 
-ZDJECIA
+
 
 ![Cuevas](/img/Caminito_del_Rey_4.jpeg)
 ![Cuevas](/img/caminitodelrey-kopia.jpg)
@@ -175,6 +177,7 @@ Included:
 * Entry to the Caminito Del Rey
 Excursion pick-up locations: Motri-Salobrena-Amunecar-La Herradura-Nerja-Torrox. ( We will contact
 you to arrange your nearest pick-up location).
+
 https://www.andalusianexcursions.com/
 
 ![Cuevas](/img/cam-exc.jpeg)
