@@ -7,11 +7,13 @@ images: [""]
 tags: ""
 draft: false
 ---
-Interesting places
+Interesting places:
 
-# **Guadix, Geopark Granada**
+ **Guadix, Geopark Granada**
 
-##  **Caminito del Rey**
+  **Caminito del Rey**
+
+ # Guadix, Geopark Granada 
 
 60 km from Granada, 140 km from Salobreńa and Motril
 Guadix, a small Andalusian town (around 25,000 inhabitants) is a well-known tourist destination. Tourists

@@ -36,14 +36,15 @@ od czasu do czasu. Teraz nadmorskie miejscowości żyją przez cały rok, choć 
 latem. Coraz więcej osób: Hiszpanów, Brytyjczyków, Niemców, Skandynawów chce spędzić zimę na
 najcieplejszym wybrzeżu Hiszpanii. Sami właściciele nieruchomości też coraz chętniej zostają tu na stałe.
 Popyt na mieszkania pozasezonowe kreuje podaż. Oferta mieszkań wynajmowanych w okresie od
-września do końca czerwca, a jeszcze częściej od początku października do końca maja jest spora. Można
+września do końca czerwca, a jeszcze częściej od początku października do końca maja jest spora. 
 
-je wynająć na cały ten czas lub jego część. Z drugiej strony popyt jednak rośnie i znalezienie
+Można je wynająć na cały ten czas lub jego część. Z drugiej strony popyt jednak rośnie i znalezienie
 odpowiedniego lokum nie jest już tak proste, jak kiedyś i tak tanie. Trzeba wiedzieć gdzie i jak szukać.
 Przedstawiając po krótce możliwości wynajmu posezonowego, bierzemy pod uwagę nadmorskie rejony
 Almuńecar, Salobreńy, Motrliu (100-300 m od morza) oraz rozsądne ceny, bo te są zróżnicowane.
 Najlepiej wynajmować bez pośrednictwa agencji nieruchomości, bo te kasują równowartość miesięcznego
 czynszu, a niewiele pomagają.
+
 Wynajęcie apartamentu z dwoma sypialniami to koszt około 450 – 600 euro miesięcznie. Trzy sypialnie
 kosztują 500 – 750 euro, a domek z 4 sypialniami około 700 - 800 euro. Zdarzają się tańsze propozycje,
 więcej jednak jest droższych lub dużo droższych z cenami dla zamożnych Brytyjczyków, czy Niemców.
@@ -53,6 +54,7 @@ miesięcznie, woda – około 20 euro, śmieci – około 5 euro, internet – 2
 najczęściej nie ma. Zimą może być dość chłodno w domu, wtedy, gdy świeci słońce, jest cieplej na
 zewnątrz niż w mieszkaniu.
 Zakupy
+
 To dość istotna kwestia logistyczne, zwłaszcza gdy nie mamy samochodu. Na szczęście w każdej,, nawet
 małej miejscowości jest kilka supermarketów, czynnych przynajmniej 6 dni w tygodniu, od 9 do 21.30. Są
 to markety należące do sieci: Dia, Mercadona, Coviran, Carrefour, Lidl, Aldi. W większych miastach e
@@ -65,10 +67,11 @@ niedroga. Autobusem bez problemu dojedziemy do Malagi, Granady i dalszych miast.
 podróżować po okolicznych miejscowościach. Trzeba jednak przyznać, że posiadanie samochodu daje
 większe możliwości. Jeśli nie mamy samochodu, możemy skorzystać ze zorganizowanych wycieczek.
 
-###### Costa Tropical. Miesiąc po miesiącu.
+#### **Costa Tropical. Miesiąc po miesiącu**.
 
 Przegląd miesięcy na Costa Tropical, głównie pogodowy, przygotowałem głównie na podstawie własnych
 obserwacji i doświadczeń.
+
 Wrzesień
 
 Lato w pełni. Temperatura powietrza około 27 stopni C, a wody około 22 stopnie. Do połowy września
@@ -76,11 +79,13 @@ trwa oficjalny sezon. W praktyce oznacza to, że na plażach są ratownicy, a za
 Do połowy miesiąca jest też więcej ludzi.
 
 Wrzesień to idealny czas na plażowanie (lepszy niż lipiec i sierpień), wycieczki, wędrówki, spacery.
+
 Październik
 
 Lato wciąż trwa. Temperatura spada przeciętnie do około 24 stopni. Morze jest ciepłe przez większą część
 miesiąca, pod koniec października dość gwałtownie się oziębia, bo do około 19 stopni.
 Czas na plażowanie, nieco luźniejsze, spacery, wycieczki, fiesty i atrakcje gastronomiczne.
+
 Listopad
 
 To już jesień. Jeśli chodzi o pogodę listopad na Costa Tropical, przypomina ciepły wrzesień w Polsce.
@@ -89,8 +94,10 @@ pochmurne, a nawet deszczowe, z tym że deszcz jeśli pada, to tylko przez czę�
 temperaturę ma wpływ też wiatr.
 W listopadzie zaczyna się już sezon na tropikalne owoce: mandarynki, pomarańcze, cherimoye, mango,
 papaje, kumkwaty i inne.
+
 W listopadzie sporo jest jeszcze dni plażowych. Jest to idealna pora na wycieczki, spacery i wędrówki
 oraz atrakcje gastronomiczne.
+
 Grudzień
 
 Jest podobny do listopada. W 2023 r. był bardzo ciepły, a święta ludzie spędzali na plaży, opalając się a
@@ -121,11 +128,14 @@ Zapełniają się plaże nie tylko w weekendy. W tym roku jednak nie brakuje poc
 ich fragmentów), czasami pada, ale jest ciepło. Przybywa turystów. Kończy się sezon zbioru owoców
 tropikalnych, ale są dostępne przez cały rok. Za to jest sezon na truskawki i szparagi (zielone). 28
 kwietnia jest ostatnim dniem sezonu narciarskiego.
+
 Maj
+
 To już lato w pełni. Temperatury średnio około 25 stopni, a w morzu blisko 20 stopni. Turystyka kwitnie,
 plaże są pełne, wszystkie lokale czynne. Przyjemny miesiąc, letni, ale poza weekendem, wciąż jeszcze
 jest dość pusto. Nie ma jeszcze upałów więc to dobry czas na różnego rodzaju aktywności sportowe i
 turystyczne, nie tylko rankiem i wieczorem, gdy jest chłodniej.
+
 Czerwiec
 
 To już sezon. W połowie miesiąca otwierają główny sezon. Jest upalnie, ale morze sprawia, że
@@ -137,7 +147,7 @@ kulinarne doświadczenia w mieście i we własnym zakresie.
 Zachęcam do korzystania z informacji na niniejszej stronie. Znajdziecie tu sporo propozycji wycieczek i
 innych atrakcji.
 
-###### Jak mogę pomóc?
+**Jak mogę pomóc?**
 
 Przedstawię kilka propozycji mieszkań i apartamentów na wynajem, zgodnie z preferencjami. Pomogę je
 zarezerwować i wynająć.
@@ -175,7 +185,7 @@ allpress.piotr.janczarek@gmail.com
 tel./WhatsApp: +48 604 201 109
 
 ![This is an image](/img/domki.jpeg)
-![This is an image](/img/salobrondojpeg)
+![This is an image](/img/salobrondo.jpeg)
 ![This is an image](/img/widzok3.jpeg)
 ![This is an image](/img/widzokn.jpeg)
-![This is an image](/img/zachód.jpg)
+![This is an image](/img/zachod.jpg)
