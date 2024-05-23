@@ -99,6 +99,13 @@ enableInlineShortcodes = true
     weight = 1 
 
   [[menu.main]]
+    name = "Shop"
+    parent = "Flavours of the Costa Tropical"
+    url = "/shop"
+    weight = 1 
+
+
+  [[menu.main]]
     name = "Tropical Fruits"
     parent = "Flavours of the Costa Tropical"
     url = "/tropicalfruits"
