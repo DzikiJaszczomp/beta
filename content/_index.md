@@ -24,8 +24,8 @@
     icon = "fa-mug-hot"
     icon_pack = "fas"
     accent = "1"
-    title = "Motril"
-    text = "loremipsum"
+    title = "Skiing and beach"
+    text = "on the same day"
     url = "/kids"
 
   [[feature_icons.tile]]
