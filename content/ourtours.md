@@ -4,9 +4,7 @@ Departures from Nerja, La Herradura, Almunecar, Salobrena, Motril
 pick up from your hotel/apartment
 Excursions: Granada, Sierra Nevada and Alpujarra mountains, Ronda, Gibraltar, in season to a ski resort
 (not just for skiers). Read below.
-
 GRANADA
-
 full-day excursion every Thursday
 small groups of up to 4 or 6 people.
 Cost: €45 per person
@@ -29,7 +27,6 @@ arrive in Nerja around 6 o'clock in the afternoon.
 We prefer to explore on foot. We follow my own tried and tested routes, Due to the differences in
 elevation in Granada it can be quite difficult for some people. In this case we use minibuses.
 Payment: in cash, at the end of the tour
-
 Information and reservations:
 allpress.piotr.janczarek@gmail.com
 See photos:
